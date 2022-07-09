@@ -17,3 +17,12 @@ Segue meu _username_: [gustavoveloper](https://github.com/gustavoveloper).
 JavaScript é uma linguagem de programação, assim como Python e Java, por exemplo. Sendo uma tecnologia de alto nível, é uma das bases que fundamentam a totalidade da _World Wide Web_, junto com outras ferramentas como Linux, HTML, CSS, PHP, SQL, JSON, etc.
 
 O desenvolvedor Brendan Eich é comumente creditado como o autor da linguagem, cujo nome foi derivado da palavra "Java", que era uma das tecnologias mais comentadas na época em que o JavaScript foi criado. Essa nomenclatura, a propósito, foi uma "jogada de _marketing_".
+
+### CommonJS e ECMAScript
+A linguagem JS pode ser implementada de duas maneiras distintas: _CommonJS_ ou _ECMAScript_. Esses dois nomes se referem a diferentes padrões de sintaxe que podem ser utilizados para escrita de código em JavaScript. Mas de onde vieram?
+
+Com o sucesso do JavaScript como linguagem de _scripting_, diversos _browsers_ passaram a implementar seus próprios motores de execução JS (ou de linguagens baseadas/inspiradas em JS), sendo comum um deles utilizar um padrão de sintaxe distinto dos utilizados por outros.
+
+Dada essa confusa variedade de possíveis sintaxes que acabou surgindo para o JavaScript, uma necessidade de serem estabelecidos padrões se mostrou evidente, e a organização ECMA (_European Computer Manufacturers Association_) definiu uma especificação de padrão de sintaxe chamada de _ECMAScript_ para a linguagem, que foi adotada, inclusive, por outras tecnologias (ex.: Dart, JSON).
+
+Para definir o CommonJS, basta dizer que o mesmo consiste da implementação natural do JavaScript que não segue a sintaxe ECMAScript.
