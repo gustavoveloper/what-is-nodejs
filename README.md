@@ -26,3 +26,6 @@ Com o sucesso do JavaScript como linguagem de _scripting_, diversos _browsers_ p
 Dada essa confusa variedade de possíveis sintaxes que acabou surgindo para o JavaScript, uma necessidade de serem estabelecidos padrões se mostrou evidente, e a organização ECMA (_European Computer Manufacturers Association_) definiu uma especificação de padrão de sintaxe chamada de _ECMAScript_ para a linguagem, que foi adotada, inclusive, por outras tecnologias (ex.: Dart, JSON).
 
 Para definir o CommonJS, basta dizer que o mesmo consiste da implementação natural do JavaScript que não segue a sintaxe ECMAScript.
+
+### O que é NodeJS?
+Antes de explicar o que é NodeJS: **NodeJS não é um _framework_ ou uma biblioteca**. Ele nada mais é que uma _JavaScript engine_, isto é, um motor de execução JavaScript, assim como o V8 usado pela Google, por exemplo. Esse último, a propósito, serviu como base para a construção do primeiro, como é explicado a seguir.
