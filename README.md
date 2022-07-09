@@ -7,6 +7,10 @@ Prezado leitor, sinta-se livre para consumir e contribuir com este conteúdo.
 Não ache estranha a falta de prática ou de "mão no código": este não é o tipo de foco deste material.
 
 
+## Meu perfil no Github
+Segue meu _username_: [gustavoveloper](https://github.com/gustavoveloper).
+
+
 ## Iniciando...
 
 ### O que é JavaScript?
