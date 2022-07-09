@@ -28,4 +28,9 @@ Dada essa confusa variedade de possíveis sintaxes que acabou surgindo para o Ja
 Para definir o CommonJS, basta dizer que o mesmo consiste da implementação natural do JavaScript que não segue a sintaxe ECMAScript.
 
 ### O que é NodeJS?
-Antes de explicar o que é NodeJS: **NodeJS não é um _framework_ ou uma biblioteca**. Ele nada mais é que uma _JavaScript engine_, isto é, um motor de execução JavaScript, assim como o V8 usado pela Google, por exemplo. Esse último, a propósito, serviu como base para a construção do primeiro, como é explicado a seguir.
+Antes de explicar o que é NodeJS: **NodeJS não é um _framework_ ou uma biblioteca**. Ele nada mais é que uma _JavaScript engine_, isto é, um motor de execução JavaScript (naturalmente usado no _server-side_ de sistemas), assim como o V8 usado pela Google, por exemplo. Esse último, a propósito, serviu como base para a construção do primeiro, como é explicado a seguir.
+
+### Como surgiu o NodeJS?
+Vale deixar evidente que **o NodeJS não foi a primeira tentativa de trazer o JavaScript para o _server-side_**. Apesar disso, foi uma das primeiras a obter relevante e notável aceitação por parte das comunidades de desenvolvimento.
+
+Idealizado pelo engenheiro de _software_ americano Ryan Dahl, a plataforma para execução de JS foi lançada em maio de 2009, escrita sobre o motor _open source_ da Google chamado V8.
